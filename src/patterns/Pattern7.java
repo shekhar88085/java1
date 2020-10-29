@@ -1,0 +1,22 @@
+package patterns;
+
+import java.util.Scanner;
+
+public class Pattern7 {
+    public static void main(String[] d){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number");
+        int n=sc.nextInt();
+        int m=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n-i;j++){
+                System.out.print("  ");
+            }
+            for(int j=0;j<=i;j++){
+                m++;
+                System.out.print(+m+"   ");
+            }
+            System.out.println();
+        }
+    }
+}
