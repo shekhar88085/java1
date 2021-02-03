@@ -2,199 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d09ddbed-0f0f-4df0-b397-9f5ef6322a8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Foundation/CountDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Agrima_Project/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Agrima_Project/Discount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Algorithms/TwoPointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Algorithms/TwoPointer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Box/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Box/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Box/BoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Box/BoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Box/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Box/StringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Boxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Boxes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Boxes2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Boxes2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/IneerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/IneerClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/MotarcycleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/MotarcycleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Motorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Motorcycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Overload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/OverloadCons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/OverloadCons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/OverloadCons2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/OverloadCons2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/OverloadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/OverloadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/PassOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/PassOb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Static.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Static.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/TestStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Tst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Tst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/VaTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/VaTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Varags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Varags.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/Varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/d.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Class/varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Class/varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Codechef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Codechef.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Competitive/TestClass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Competitive/hackerRank1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Competitive/inf1908.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Competitive/intest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Competitive/reverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Box1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Box1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/BoxWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/BoxWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/BoxWeight1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/BoxWeight1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Bx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Bx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoBoxWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoBoxWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoShipment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoShipment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/DemoSuper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/SimpleINheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/SimpleINheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Singer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Singer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/UseSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/UseSuper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/Weigh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/Weigh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Inheritance/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Inheritance/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/ArrayListDEmo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/ArrayListDEmo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/MainLInkedLIst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/MainLInkedLIst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/MyLInkedLIst$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/MyLInkedLIst$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/MyLInkedLIst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/MyLInkedLIst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/VectorandStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/VectorandStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/queue/MYQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/queue/MYQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Lists/queue/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Lists/queue/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Scanner/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Scanner/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Strings/Anagram2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Strings/Anagram2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Strings/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Strings/Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Strings/StringIntroduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Strings/StringIntroduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/Testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/Testing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/applets/Discount1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/applets/Discount1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/applets/HelloWorldApplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/applets/HelloWorldApplets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/arrays/ArrayIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/arrays/ArrayIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/arrays/AverageMarks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/arrays/AverageMarks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/arrays/MatrixAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/arrays/MatrixAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/arrays/TwoDArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/arrays/TwoDArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/IfClas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/IfClas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/Rating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/Rating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/SwitchCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/conditionalStatement/SwitchCaseStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/conditionalStatement/SwitchCaseStatements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/encapsulation/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/encapsulation/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/encapsulation/encapsulationIntroduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/encapsulation/encapsulationIntroduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/CarWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/CarWrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/swapObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/ClassesndObject/swapObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/For_Each/foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/For_Each/foreach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/INheritance/shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/Practice/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/Practice/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/Practice/arraylists1p2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/Practice/arraylists1p2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/Practice/indian_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/Practice/indian_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/Practice/javaarrayset1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/Practice/javaarrayset1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/Practice/switchpractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/Practice/switchpractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/biginteger/factorialexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/biginteger/factorialexample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/biginteger/largefactorialexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/biginteger/largefactorialexample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/bitset/sdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/bitset/sdf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/bitwise/ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/bitwise/ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/MultiDimensionlaArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/MultiDimensionlaArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/Queue/priorityQueue/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/Queue/priorityQueue/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/disjoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/disjoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/arraylist/es.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/arraylist/es.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/arraylist/ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/arraylist/ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/customArraylist$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/customArraylist$Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/customArraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/customArraylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/linklist/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/linklist/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/singleLIneInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/singleLIneInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/stack/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/list/stack/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/rotate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/collection/sx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/collection/sx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/forloop/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/forloop/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/generic/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/generic/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/generic/multest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/generic/multest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/generic/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/generic/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/immutableclass/immutable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/immutableclass/immutable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/immutableclass/immutableex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/immutableclass/immutableex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/inetrface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/interfaces/inetrface1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/search/binarysearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/search/binarysearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/staticuse/staticDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/staticuse/staticDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/staticuse/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/staticuse/student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/StringBuilder/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/StringBuilder/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/Stringbuffer/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/Stringbuffer/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/conversionOfAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/conversionOfAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/intToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/intToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringJoiner/newClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringJoiner/newClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringTokenizer/newClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/stringTokenizer/newClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/tut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/stringclass/tut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/subsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/subsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/thiskeyword/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/thiskeyword/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/gfg/wrapper/WrappingUnwrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/gfg/wrapper/WrappingUnwrapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/Callback.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/Callback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/FixedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/FixedStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/IFTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/IFTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/IntStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/IntStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/interfaces/inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/interfaces/inter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Break.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Continue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Fibbonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Fibbonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/ForLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/ForLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/Sum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/Sum2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/loops/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/loops/While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/methods/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/methods/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/methods/Introduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/methods/Introduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/methods/PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/methods/PassByValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/A$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/A$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/RepairShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/RepairShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/audi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/wagonor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/Abstraction/wagonor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/finalKeyword/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/finalKeyword/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/interfaces/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/interfaces/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/interfaces/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/interfaces/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/interfaces/VideoEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/interfaces/VideoEditor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/interfaces/YouTuber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/interfaces/YouTuber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/packages/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/packages/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/packages/models/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/packages/models/Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/packages/models/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/packages/models/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/singeltons/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/singeltons/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/singeltons/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/singeltons/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/staticKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/staticKeyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/oops/vehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/oops/vehicles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/operators/ArithmeticOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/operators/ArithmeticOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/others/appendCodePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/others/appendCodePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/patterns/Pattern7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/patterns/Pattern7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/sorting/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/sorting/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/typeCasting/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/typeCasting/TypeCasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java1/userInput/ScannerUserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java1/userInput/ScannerUserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Learning/Week2/COMPILER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Learning/Week2/PSHOT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Learning/Week2/STFOOD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Learning/Week2/STUPMACH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INPUT/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Foundation/CountDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Placement/LogestConsecutiveSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Placement/LogestConsecutiveSubsequence.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,13 +49,14 @@
   <component name="ProjectId" id="1PHSHD9jLoZw9r0kVkbBxcXS464" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/spring/demo" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/CodeChefDSA" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
@@ -257,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoxDemo">
+  <component name="RunManager" selected="Application.COMPILER">
     <configuration name="BoxDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class.Box.BoxDemo" />
       <module name="java1" />
@@ -271,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="customArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.collection.list.customArraylist" />
+    <configuration name="COMPILER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Learning.Week2.COMPILER" />
       <module name="java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.collection.list.*" />
+          <option name="PATTERN" value="DSA_Learning.Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.collection.list.arraylist.es" />
+    <configuration name="LogestConsecutiveSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Placement.LogestConsecutiveSubsequence" />
       <module name="java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.collection.list.arraylist.*" />
+          <option name="PATTERN" value="Placement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.collection.list.stack.ex" />
+    <configuration name="PSHOT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Learning.Week2.PSHOT" />
       <module name="java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.collection.list.stack.*" />
+          <option name="PATTERN" value="DSA_Learning.Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.collection.Queue.priorityQueue.ex" />
+    <configuration name="STFOOD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Learning.Week2.STFOOD" />
       <module name="java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.collection.Queue.priorityQueue.*" />
+          <option name="PATTERN" value="DSA_Learning.Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleLIneInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.collection.list.singleLIneInitialization" />
+    <configuration name="STUPMACH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_Learning.Week2.STUPMACH" />
       <module name="java1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.collection.list.*" />
+          <option name="PATTERN" value="DSA_Learning.Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex" />
-        <item itemvalue="Application.es" />
-        <item itemvalue="Application.singleLIneInitialization" />
-        <item itemvalue="Application.customArraylist" />
-        <item itemvalue="Application.ex (2)" />
+        <item itemvalue="Application.COMPILER" />
+        <item itemvalue="Application.STUPMACH" />
+        <item itemvalue="Application.PSHOT" />
+        <item itemvalue="Application.STFOOD" />
+        <item itemvalue="Application.LogestConsecutiveSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603941226886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="placement time">
+      <created>1608816984940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816984940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="placement time">
+      <created>1608816995833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816995833</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +202,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -380,7 +212,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java DONE but FIRST commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java DONE but FIRST commit" />
+    <MESSAGE value="placement time" />
+    <option name="LAST_COMMIT_MESSAGE" value="placement time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
